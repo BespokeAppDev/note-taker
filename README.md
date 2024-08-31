@@ -1,10 +1,8 @@
-note-taker repository
+Note-Taker Repository
 
-record, transcribe and summarize conversations using the Whisper API
+Records,transcribes and summarizes conversations using the Whisper API.
 
-Overview
-
-The Note-Taker repository is a powerful tool designed to streamline the process of recording, transcribing, and summarizing meetings using the Whisper API. This system captures audio directly from a GUI interface, converts it into text, and generates concise summaries. It enhances productivity by providing clear and accessible documentation of meetings, making it ideal for efficient knowledge management and analysis.
+The Note-Taker repository is designed to streamline recording, transcribing, and summarizing meetings using the Whisper API. This system captures audio directly from the GUI, converts it into text, and generates summaries. We will integrate with CRMs to allow for quick uploads and client tracking.
 
 Features
 
